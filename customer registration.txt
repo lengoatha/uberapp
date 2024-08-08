@@ -1,0 +1,5 @@
+1register customer
+
+2sign in customer
+
+3verify customer
